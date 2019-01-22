@@ -1,4 +1,4 @@
-# Implementing Social login in your Android without using SDKs
+# Implementing Social login in Android without Social SDKs
 
 Every good app needs good UI/UX. Having a good user experience means make it easy and fast for people to get into and around your app. If your app needs to authenticate users, either to send data to your backend or to customize it accordingly to the person using it, you might find yourself creating some big architecture behind the scene to accommodate that. It takes time and can also be frustrating for the user as they might not feel like getting though the whole process of registration -> confirmation -> activation.
 
