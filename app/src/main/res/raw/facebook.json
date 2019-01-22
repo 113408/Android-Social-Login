@@ -1,0 +1,8 @@
+{
+  "client_id": "FB_ID",
+  "redirect_uri": "https://mywebsite.com/oauth",
+  "authorization_scope": "email",
+  "authorization_endpoint_uri": "https://www.facebook.com/dialog/oauth",
+  "token_endpoint_uri": "https://graph.facebook.com/oauth/access_token",
+  "https_required": true
+}

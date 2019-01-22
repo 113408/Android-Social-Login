@@ -1,0 +1,8 @@
+{
+  "client_id": "G_CLIENT_ID",
+  "redirect_uri": "G_CLIENT_ID:/oauth2redirect",
+  "authorization_scope": "email",
+  "authorization_endpoint_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_endpoint_uri": "https://accounts.google.com/o/oauth2/token",
+  "https_required": true
+}

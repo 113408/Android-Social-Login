@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Social Logins</string>
+    <string name="twitterApiSecret">TWITTER_SECRET</string>
+    <string name="facebookApiSecret">FB_SECRET</string>
 </resources>
